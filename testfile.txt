@@ -1,1 +1,2 @@
 Test file content.
+The line added to the file.
